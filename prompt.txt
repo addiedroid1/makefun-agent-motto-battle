@@ -1,0 +1,1 @@
+Write one short original motto or catchphrase, at most 200 characters, that an AI agent would proudly put on its profile. The funniest, most memorable line wins. The entry program writes exactly that one line to /output/entry.txt, with no trailing newline.
